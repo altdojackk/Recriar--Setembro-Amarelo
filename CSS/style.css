@@ -95,6 +95,10 @@ nav a:hover{
     }
 }
 
+.luta h3{
+    text-align: center;
+}
+
 
 @media (max-width: 600px) {
     h1 {
